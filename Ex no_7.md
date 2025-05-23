@@ -11,6 +11,7 @@ To write a C Program to Print a right triangle star Pattern
 5. Enter number of rows and columns.
 6. End
 ## Program:
+
 #include <stdio.h>
 int main() {
  int i, j, rows;
