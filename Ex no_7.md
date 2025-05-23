@@ -4,14 +4,13 @@
 To write a C Program to Print a right triangle star Pattern
 
 ## Algorithm
-1. Start.
-2. Declare the variables i,j,k,n.
-3. Prompt the user to enter a value.
-4. Read the value using scanf.
-5. Enter number of rows and columns.
-6. End
-## Program:
+1. 
+2. 
+3. 
+4.  
+5.   
 
+## Program:
 #include <stdio.h>
 int main() {
  int i, j, rows;
@@ -24,11 +23,9 @@ int main() {
  } return 0;
 }
 
+```
+
 ## Output:
-3
-*
-* *
-* * *
 
 
 
